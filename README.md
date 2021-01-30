@@ -8,7 +8,7 @@
 - 📝 I regularly write articles on [https://auth.geeksforgeeks.org/user/dikshantmalidev/articles](https://auth.geeksforgeeks.org/user/dikshantmalidev/articles)
 
 - 📫 How to reach me **dikshantmali.dev@gmail.com**
-<img aligh="right" width="390" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+<img align="right" width="390" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/dikshant-mali-627795183" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dikshant-mali-627795183" height="30" width="40" /></a>
@@ -24,4 +24,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dikshantmali&show_icons=true&locale=en" alt="dikshantmali" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dikshantmali&" alt="dikshantmali" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=dikshantmali&" alt="dikshantmali" /></p>
