@@ -1,6 +1,9 @@
 <h1 align="center">Hola 👋, I'm Dikshant Mali</h1>
 <h3 align="center">A passionate Devops Enthusiast from India</h3>
 
+- 🔭 My speciality includes tech's like **Docker, Kubernetes, Terraform, Jenkins, GCP Cloud, AWS Cloud And Many More**
+
+
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://dikshantmali.github.io/Myportfolio/](https://dikshantmali.github.io/Myportfolio/)
