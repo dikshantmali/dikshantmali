@@ -11,7 +11,7 @@
 - 📝 I have contributed articles on [https://auth.geeksforgeeks.org/user/dikshantmalidev/articles](https://auth.geeksforgeeks.org/user/dikshantmalidev/articles)
 
 - 📫 Contact at **dikshantmali.dev@gmail.com**
-<img align="right" width="390" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+<img align="right" width="390" src="https://cdn.dribbble.com/users/926537/screenshots/4502902/dev-ops-gif-dr.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/dikshant-mali-627795183" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dikshant-mali-627795183" height="30" width="40" /></a>  
