@@ -1,13 +1,13 @@
 <h1 align="center">Hola 👋, I'm Dikshant Mali</h1>
-<h3 align="center">Student At Poornima Institute Of Engineering And Technology</h3>
+<h3 align="center">Devops Enthusiast </h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://dikshantmali.github.io/Myportfolio/](https://dikshantmali.github.io/Myportfolio/)
 
-- 📝 I regularly write articles on [https://auth.geeksforgeeks.org/user/dikshantmalidev/articles](https://auth.geeksforgeeks.org/user/dikshantmalidev/articles)
+- 📝 I have contributed articles on [https://auth.geeksforgeeks.org/user/dikshantmalidev/articles](https://auth.geeksforgeeks.org/user/dikshantmalidev/articles)
 
-- 📫 How to reach me **dikshantmali.dev@gmail.com**
+- 📫 Contact at **dikshantmali.dev@gmail.com**
 <img align="right" width="390" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
